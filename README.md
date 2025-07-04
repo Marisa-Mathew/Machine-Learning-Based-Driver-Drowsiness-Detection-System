@@ -1,7 +1,5 @@
 # Machine-Learning-Based-Driver-Drowsiness-Detection-System
-Here's a 500-word instructional description for your **Machine-Learning-Based Driver Drowsiness Detection System** using Raspberry Pi and OV5467 camera:
 
----
 
 ### Instructions for Machine-Learning-Based Driver Drowsiness Detection System Using Raspberry Pi and OV5467 Camera
 
