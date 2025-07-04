@@ -73,10 +73,4 @@ This system is useful in transportation safety to prevent accidents caused by fa
 
 ---
 
-### 6. **Conclusion**
 
-The Raspberry Pi-based drowsiness detection system is a cost-effective and efficient solution for real-time driver monitoring. With lightweight libraries and machine learning techniques like landmark detection and Euclidean distance calculation, it offers practical application in improving road safety.
-
----
-
-Let me know if you want the actual Python code for this setup too.
