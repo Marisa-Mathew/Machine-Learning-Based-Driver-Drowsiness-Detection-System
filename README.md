@@ -31,7 +31,8 @@ This system is designed to detect driver drowsiness using computer vision and ma
 
 3. **Dlib Facial Landmark Model**: Download the pre-trained shape predictor model:
 
-   * `shape_predictor_68_face_landmarks.dat` from [Dlib model zoo](http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2)
+   * `shape_predictor_68_face_landmarks.dat` from [Dlib model ](https://huggingface.co/spaces/asdasdasdasd/Face-forgery-detection/blob/ccfc24642e0210d4d885bc7b3dbc9a68ed948ad6/shape_predictor_68_face_landmarks.dat)
+
 
 ---
 
@@ -68,8 +69,8 @@ This ratio decreases when eyes close and remains low if the driver is drowsy. A 
 This system is useful in transportation safety to prevent accidents caused by fatigue. It can be enhanced using:
 
 * Audio alerts or vibration motors.
-* Integration with vehicle systems to slow down or stop.
-* Use of additional sensors like accelerometers for behavior-based fusion.
+* Integration with vehicle systems to slow down or stop or give alert signal.
+
 
 ---
 
